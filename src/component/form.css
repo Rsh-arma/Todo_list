@@ -1,0 +1,58 @@
+.form{
+    background-color: #fff;
+    width: 1000px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+    height: 300px;
+}
+
+.form_content{
+    border-bottom : 2px solid lightgrey;
+    height:180px;
+}
+
+.form_entry{
+    padding: 10px;
+    width: 500px;
+}
+
+.form_label{
+ margin-bottom: 10px;
+ display: block;
+}
+
+.form_button{
+   display: flex;
+   flex-direction: column;
+   margin-top: 20px;
+   height: 100px;
+}
+
+
+.btn_primary{
+    background-color: blue;
+    outline:none;
+    border:none;
+    border-radius: 5px;
+    padding: 10px 15px ;
+    font-size:  15px;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+ 
+}
+
+
+.btn_primarycancel{
+    background-color: lightgrey;
+    outline:none;
+    border:none;
+    border-radius: 5px;
+    padding: 10px 15px ;
+    font-size:  15px;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+ 
+}

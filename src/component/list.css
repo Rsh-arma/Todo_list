@@ -1,0 +1,38 @@
+.list_taskheading{
+    display: flex;
+    padding: 10px;
+}
+
+.list_taskcontent{
+    display: flex;
+    padding: 10px;
+    background-color: #f5f4f4;
+
+}
+
+.list_taskname{
+    width:500px;
+}
+
+.list_taskstatus{
+    width:300px;
+    text-align: center;
+}
+
+.list_taskaction{
+    width:300px;
+    text-align: center;
+    
+}
+
+.btn_secondary{
+    background-color:white;
+    outline:none;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 2px 5px ;
+    font-size:  15px;
+    color: blue;
+    margin-right: 10px;
+    cursor: pointer;
+}
